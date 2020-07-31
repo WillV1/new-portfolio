@@ -1,0 +1,26 @@
+{
+  "name": "new-portfolio",
+  "version": "1.0.0",
+  "description": "A full-stack portfolio",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WillV1/new-portfolio.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "William VanHook",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WillV1/new-portfolio/issues"
+  },
+  "homepage": "https://github.com/WillV1/new-portfolio#readme",
+  "dependencies": {
+    "expresss": "0.0.0"
+  }
+}
